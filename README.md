@@ -14,6 +14,7 @@ This repository serves as a comprehensive record of my learning journey, designe
 |#    |       Program Name       | Practice Name|
 |:---:|---                       |:----         |
 |    1| Object Orient Programming|[Universtiy Management System](https://github.com/semih-turan/Patika/tree/main/BaslangicSeviyeJavaBackendWebDevelopment/ObjectOrientProgramming/UniversityManagementSystem)|
+|    2| Object Orient Programming|[Zoo Management System](https://github.com/semih-turan/Patika/tree/main/BaslangicSeviyeJavaBackendWebDevelopment/ObjectOrientProgramming/ZooManagementSystem)|
 
 </details>
 
